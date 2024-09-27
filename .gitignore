@@ -16,4 +16,7 @@ Packages
 *.rbxlx.lock
 *.rbxl.lock
 # Rojo
+rokit.toml
 sourcemap.json
+# stylua
+stylua.toml
