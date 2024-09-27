@@ -1,0 +1,19 @@
+# Vscode Folder
+.vscode
+
+# Moonwave
+build
+
+# Wally Dependencies
+Packages
+
+# Hide env
+.env
+
+# Roblox place files
+*.rbxlx
+*.rbxl
+*.rbxlx.lock
+*.rbxl.lock
+# Rojo
+sourcemap.json
