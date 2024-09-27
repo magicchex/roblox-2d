@@ -1,4 +1,4 @@
-# roblox template
+# roblox 2d example
 [![continuous integration](https://github.com/magicchex/roblox-template/actions/workflows/ci.yaml/badge.svg)](https://github.com/magicchex/roblox-template/actions/workflows/ci.yaml)
 
-My roblox workflow
+Roblox 2D
