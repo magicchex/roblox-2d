@@ -1,5 +1,5 @@
-title = "Template Documentation"
-gitRepoUrl = "https://github.com/magicchex/roblox-template"  
+title = "Roblox 2D"
+gitRepoUrl = "https://github.com/magicchex/roblox-2d"  
 
 gitSourceBranch = "master"
 changelog = true
